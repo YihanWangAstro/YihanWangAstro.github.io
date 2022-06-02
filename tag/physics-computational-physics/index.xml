@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Physics - Computational Physics | Yihan Wang (王艺涵)</title>
+    <link>https://yihanwangastro.github.io/YihanWang.github.io/tag/physics-computational-physics/</link>
+      <atom:link href="https://yihanwangastro.github.io/YihanWang.github.io/tag/physics-computational-physics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Physics - Computational Physics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yihanwangastro.github.io/YihanWang.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Physics - Computational Physics</title>
+      <link>https://yihanwangastro.github.io/YihanWang.github.io/tag/physics-computational-physics/</link>
+    </image>
+    
+    <item>
+      <title>SpaceHub: A high-performance gravity integration toolkit for few-body problems in astrophysics</title>
+      <link>https://yihanwangastro.github.io/YihanWang.github.io/publication/2021-mnras-505-1053-w/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://yihanwangastro.github.io/YihanWang.github.io/publication/2021-mnras-505-1053-w/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

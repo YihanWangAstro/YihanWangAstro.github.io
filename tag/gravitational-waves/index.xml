@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gravitational waves | Yihan Wang (王艺涵)</title>
+    <link>https://yihanwangastro.github.io/YihanWang.github.io/tag/gravitational-waves/</link>
+      <atom:link href="https://yihanwangastro.github.io/YihanWang.github.io/tag/gravitational-waves/index.xml" rel="self" type="application/rss+xml" />
+    <description>gravitational waves</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yihanwangastro.github.io/YihanWang.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>gravitational waves</title>
+      <link>https://yihanwangastro.github.io/YihanWang.github.io/tag/gravitational-waves/</link>
+    </image>
+    
+    <item>
+      <title>Binary Mergers near a Supermassive Black Hole: Relativistic Effects in Triples</title>
+      <link>https://yihanwangastro.github.io/YihanWang.github.io/publication/2019-ap-j-883-l-7-l/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://yihanwangastro.github.io/YihanWang.github.io/publication/2019-ap-j-883-l-7-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Black Hole and Neutron Star Binary Mergers in Triple Systems. II. Merger Eccentricity and Spin-Orbit Misalignment</title>
+      <link>https://yihanwangastro.github.io/YihanWang.github.io/publication/2019-ap-j-881-41-l/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://yihanwangastro.github.io/YihanWang.github.io/publication/2019-ap-j-881-41-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constraining the Black Hole Initial Mass Function with LIGO/Virgo Observations</title>
+      <link>https://yihanwangastro.github.io/YihanWang.github.io/publication/2019-ap-j-878-l-1-p/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://yihanwangastro.github.io/YihanWang.github.io/publication/2019-ap-j-878-l-1-p/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

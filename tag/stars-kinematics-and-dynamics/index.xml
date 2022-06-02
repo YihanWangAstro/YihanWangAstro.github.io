@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>stars: kinematics and dynamics | Yihan Wang (王艺涵)</title>
+    <link>https://yihanwangastro.github.io/YihanWang.github.io/tag/stars-kinematics-and-dynamics/</link>
+      <atom:link href="https://yihanwangastro.github.io/YihanWang.github.io/tag/stars-kinematics-and-dynamics/index.xml" rel="self" type="application/rss+xml" />
+    <description>stars: kinematics and dynamics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yihanwangastro.github.io/YihanWang.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>stars: kinematics and dynamics</title>
+      <link>https://yihanwangastro.github.io/YihanWang.github.io/tag/stars-kinematics-and-dynamics/</link>
+    </image>
+    
+    <item>
+      <title>Hot Jupiter formation in dense clusters: secular chaos in multiplanetary systems</title>
+      <link>https://yihanwangastro.github.io/YihanWang.github.io/publication/2022-mnras-509-5253-w/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://yihanwangastro.github.io/YihanWang.github.io/publication/2022-mnras-509-5253-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SpaceHub: A high-performance gravity integration toolkit for few-body problems in astrophysics</title>
+      <link>https://yihanwangastro.github.io/YihanWang.github.io/publication/2021-mnras-505-1053-w/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://yihanwangastro.github.io/YihanWang.github.io/publication/2021-mnras-505-1053-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partial tidal disruption events by stellar mass black holes: Gravitational instability of stream and impact from remnant core</title>
+      <link>https://yihanwangastro.github.io/YihanWang.github.io/publication/2021-mnras-503-6005-w/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://yihanwangastro.github.io/YihanWang.github.io/publication/2021-mnras-503-6005-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The cosmological distribution of compact object mergers from dynamical interactions with SMBH binaries</title>
+      <link>https://yihanwangastro.github.io/YihanWang.github.io/publication/2019-mnras-490-2627-w/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://yihanwangastro.github.io/YihanWang.github.io/publication/2019-mnras-490-2627-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Black Hole and Neutron Star Binary Mergers in Triple Systems. II. Merger Eccentricity and Spin-Orbit Misalignment</title>
+      <link>https://yihanwangastro.github.io/YihanWang.github.io/publication/2019-ap-j-881-41-l/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://yihanwangastro.github.io/YihanWang.github.io/publication/2019-ap-j-881-41-l/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
