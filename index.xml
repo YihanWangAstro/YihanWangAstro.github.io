@@ -5,7 +5,7 @@
     <link>https://yihanwangastro.github.io/YihanWang.github.io/</link>
       <atom:link href="https://yihanwangastro.github.io/YihanWang.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Yihan Wang (王艺涵)</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yihanwangastro.github.io/YihanWang.github.io/media/icon_hucea9f02a100273f190f3ff7fc450b458_16225_512x512_fill_lanczos_center_3.png</url>
       <title>Yihan Wang (王艺涵)</title>
@@ -13,30 +13,18 @@
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>https://yihanwangastro.github.io/YihanWang.github.io/talk/example-talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/YihanWang.github.io/talk/example-talk/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Host galaxies and electromagnetic counterparts to binary neutron star mergers across the cosmic time: detectability of GW170817-like events</title>
       <link>https://yihanwangastro.github.io/YihanWang.github.io/publication/2022-mnras-512-2654-p/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
       <guid>https://yihanwangastro.github.io/YihanWang.github.io/publication/2022-mnras-512-2654-p/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Symmetry breaking in dynamical encounters in the disks of active galactic nuclei</title>
+      <link>https://yihanwangastro.github.io/YihanWang.github.io/talk/symmetry-breaking-in-dynamical-encounters-in-the-disks-of-active-galactic-nuclei/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://yihanwangastro.github.io/YihanWang.github.io/talk/symmetry-breaking-in-dynamical-encounters-in-the-disks-of-active-galactic-nuclei/</guid>
       <description></description>
     </item>
     
@@ -57,6 +45,30 @@
     </item>
     
     <item>
+      <title>Hot Jupiter formation in star clusters</title>
+      <link>https://yihanwangastro.github.io/YihanWang.github.io/talk/hot-jupiter-formation-in-star-clusters/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://yihanwangastro.github.io/YihanWang.github.io/talk/hot-jupiter-formation-in-star-clusters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High precision few-body integrator SpaceHub and Planetary system in dense clusters</title>
+      <link>https://yihanwangastro.github.io/YihanWang.github.io/talk/high-precision-few-body-integrator-spacehub-and-planetary-system-in-dense-clusters/</link>
+      <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://yihanwangastro.github.io/YihanWang.github.io/talk/high-precision-few-body-integrator-spacehub-and-planetary-system-in-dense-clusters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hot Jupiter formation in dense clusters</title>
+      <link>https://yihanwangastro.github.io/YihanWang.github.io/talk/hot-jupiter-formation-in-dense-clusters/</link>
+      <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://yihanwangastro.github.io/YihanWang.github.io/talk/hot-jupiter-formation-in-dense-clusters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SpaceHub: A high-performance gravity integration toolkit for few-body problems in astrophysics</title>
       <link>https://yihanwangastro.github.io/YihanWang.github.io/publication/2021-mnras-505-1053-w/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
@@ -69,6 +81,22 @@
       <link>https://yihanwangastro.github.io/YihanWang.github.io/publication/2021-mnras-503-6005-w/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://yihanwangastro.github.io/YihanWang.github.io/publication/2021-mnras-503-6005-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tidal disruption events by stellar mass black hole</title>
+      <link>https://yihanwangastro.github.io/YihanWang.github.io/talk/tidal-disruption-events-by-stellar-mass-black-hole/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://yihanwangastro.github.io/YihanWang.github.io/talk/tidal-disruption-events-by-stellar-mass-black-hole/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hot Jupiter formation in star clusters</title>
+      <link>https://yihanwangastro.github.io/YihanWang.github.io/talk/hot-jupiter-formation-in-star-clusters/</link>
+      <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://yihanwangastro.github.io/YihanWang.github.io/talk/hot-jupiter-formation-in-star-clusters/</guid>
       <description></description>
     </item>
     
@@ -337,6 +365,22 @@ $$&lt;/p&gt;
       <link>https://yihanwangastro.github.io/YihanWang.github.io/publication/2019-mnras-482-3206-w/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://yihanwangastro.github.io/YihanWang.github.io/publication/2019-mnras-482-3206-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hypervelocity binary and extragalactic merger event</title>
+      <link>https://yihanwangastro.github.io/YihanWang.github.io/talk/hypervelocity-binary-and-extragalactic-merger-event/</link>
+      <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://yihanwangastro.github.io/YihanWang.github.io/talk/hypervelocity-binary-and-extragalactic-merger-event/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High precision few-body integration methods for extremely eccentric orbits</title>
+      <link>https://yihanwangastro.github.io/YihanWang.github.io/talk/high-precision-few-body-integration-methods-for-extremely-eccentric-orbits/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://yihanwangastro.github.io/YihanWang.github.io/talk/high-precision-few-body-integration-methods-for-extremely-eccentric-orbits/</guid>
       <description></description>
     </item>
     
