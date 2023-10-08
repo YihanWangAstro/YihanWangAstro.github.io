@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>galaxies: active | Yihan Wang (王艺涵)</title>
+    <link>https://yihanwangastro.github.io/tag/galaxies-active/</link>
+      <atom:link href="https://yihanwangastro.github.io/tag/galaxies-active/index.xml" rel="self" type="application/rss+xml" />
+    <description>galaxies: active</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yihanwangastro.github.io/media/icon_hucea9f02a100273f190f3ff7fc450b458_16225_512x512_fill_lanczos_center_3.png</url>
+      <title>galaxies: active</title>
+      <link>https://yihanwangastro.github.io/tag/galaxies-active/</link>
+    </image>
+    
+    <item>
+      <title>Effective two-body scatterings around a massive object</title>
+      <link>https://yihanwangastro.github.io/publication/2023-mnras-523-2014-w/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://yihanwangastro.github.io/publication/2023-mnras-523-2014-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The emergence of diffused gamma-ray burst afterglows from the discs of active galactic nuclei</title>
+      <link>https://yihanwangastro.github.io/publication/2022-mnras-516-5935-w/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://yihanwangastro.github.io/publication/2022-mnras-516-5935-w/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
