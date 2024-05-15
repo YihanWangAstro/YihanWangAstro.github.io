@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>galaxies: nuclei | Yihan Wang (王艺涵)</title>
+    <link>https://yihanwangastro.github.io/tag/galaxies-nuclei/</link>
+      <atom:link href="https://yihanwangastro.github.io/tag/galaxies-nuclei/index.xml" rel="self" type="application/rss+xml" />
+    <description>galaxies: nuclei</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yihanwangastro.github.io/media/icon_hu21cdc11b738e3f88727c5700766a58fa_208545_512x512_fill_lanczos_center_3.png</url>
+      <title>galaxies: nuclei</title>
+      <link>https://yihanwangastro.github.io/tag/galaxies-nuclei/</link>
+    </image>
+    
+    <item>
+      <title>Stellar/BH population in AGN discs: direct binary formation from capture objects in nuclei clusters</title>
+      <link>https://yihanwangastro.github.io/publication/2024-mnras-528-4958-w/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://yihanwangastro.github.io/publication/2024-mnras-528-4958-w/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

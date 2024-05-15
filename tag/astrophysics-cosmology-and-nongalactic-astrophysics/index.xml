@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Astrophysics - Cosmology and Nongalactic Astrophysics | Yihan Wang (王艺涵)</title>
+    <link>https://yihanwangastro.github.io/tag/astrophysics-cosmology-and-nongalactic-astrophysics/</link>
+      <atom:link href="https://yihanwangastro.github.io/tag/astrophysics-cosmology-and-nongalactic-astrophysics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Astrophysics - Cosmology and Nongalactic Astrophysics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yihanwangastro.github.io/media/icon_hu21cdc11b738e3f88727c5700766a58fa_208545_512x512_fill_lanczos_center_3.png</url>
+      <title>Astrophysics - Cosmology and Nongalactic Astrophysics</title>
+      <link>https://yihanwangastro.github.io/tag/astrophysics-cosmology-and-nongalactic-astrophysics/</link>
+    </image>
+    
+    <item>
+      <title>Evidence of a Past Merger of the Galactic Center Black Hole</title>
+      <link>https://yihanwangastro.github.io/publication/2024-ar-xiv-240306416-w/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://yihanwangastro.github.io/publication/2024-ar-xiv-240306416-w/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

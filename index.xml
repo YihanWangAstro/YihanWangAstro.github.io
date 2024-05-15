@@ -5,7 +5,7 @@
     <link>https://yihanwangastro.github.io/</link>
       <atom:link href="https://yihanwangastro.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Yihan Wang (王艺涵)</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Sep 2023 16:03:25 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yihanwangastro.github.io/media/icon_hu21cdc11b738e3f88727c5700766a58fa_208545_512x512_fill_lanczos_center_3.png</url>
       <title>Yihan Wang (王艺涵)</title>
@@ -13,10 +13,66 @@
     </image>
     
     <item>
+      <title>Free-floating binary planets from ejections during close stellar encounters</title>
+      <link>https://yihanwangastro.github.io/publication/2024-nat-as-tmp-78-w/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://yihanwangastro.github.io/publication/2024-nat-as-tmp-78-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evidence of a Past Merger of the Galactic Center Black Hole</title>
+      <link>https://yihanwangastro.github.io/publication/2024-ar-xiv-240306416-w/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://yihanwangastro.github.io/publication/2024-ar-xiv-240306416-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stellar/BH population in AGN discs: direct binary formation from capture objects in nuclei clusters</title>
+      <link>https://yihanwangastro.github.io/publication/2024-mnras-528-4958-w/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://yihanwangastro.github.io/publication/2024-mnras-528-4958-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>``Tidal Peeling Events&#39;&#39;: Low-eccentricity Tidal Disruption of a Star by a Stellar-mass Black Hole</title>
+      <link>https://yihanwangastro.github.io/publication/2024-ap-j-961-149-x/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://yihanwangastro.github.io/publication/2024-ap-j-961-149-x/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anisotropic energy injection from magnetar central engines in short GRBs</title>
+      <link>https://yihanwangastro.github.io/publication/2024-mnras-528-3705-w/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://yihanwangastro.github.io/publication/2024-mnras-528-3705-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Changing-look Active Galactic Nuclei Behavior Induced by Disk-captured Tidal Disruption Events</title>
+      <link>https://yihanwangastro.github.io/publication/2024-ap-j-962-l-7-w/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://yihanwangastro.github.io/publication/2024-ap-j-962-l-7-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>My Article Name</title>
       <link>https://yihanwangastro.github.io/post/my-article-name/</link>
       <pubDate>Wed, 06 Sep 2023 16:03:25 -0700</pubDate>
       <guid>https://yihanwangastro.github.io/post/my-article-name/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tidal Disruption Events from three-body scatterings in the disks of Active Galactic Nuclei</title>
+      <link>https://yihanwangastro.github.io/publication/2023-ar-xiv-231000020-p/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://yihanwangastro.github.io/publication/2023-ar-xiv-231000020-p/</guid>
       <description></description>
     </item>
     

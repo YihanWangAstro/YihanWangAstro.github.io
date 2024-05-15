@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>outflows | Yihan Wang (王艺涵)</title>
+    <link>https://yihanwangastro.github.io/tag/outflows/</link>
+      <atom:link href="https://yihanwangastro.github.io/tag/outflows/index.xml" rel="self" type="application/rss+xml" />
+    <description>outflows</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yihanwangastro.github.io/media/icon_hu21cdc11b738e3f88727c5700766a58fa_208545_512x512_fill_lanczos_center_3.png</url>
+      <title>outflows</title>
+      <link>https://yihanwangastro.github.io/tag/outflows/</link>
+    </image>
+    
+    <item>
+      <title>Anisotropic energy injection from magnetar central engines in short GRBs</title>
+      <link>https://yihanwangastro.github.io/publication/2024-mnras-528-3705-w/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://yihanwangastro.github.io/publication/2024-mnras-528-3705-w/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

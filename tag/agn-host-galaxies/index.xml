@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AGN host galaxies | Yihan Wang (王艺涵)</title>
+    <link>https://yihanwangastro.github.io/tag/agn-host-galaxies/</link>
+      <atom:link href="https://yihanwangastro.github.io/tag/agn-host-galaxies/index.xml" rel="self" type="application/rss+xml" />
+    <description>AGN host galaxies</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yihanwangastro.github.io/media/icon_hu21cdc11b738e3f88727c5700766a58fa_208545_512x512_fill_lanczos_center_3.png</url>
+      <title>AGN host galaxies</title>
+      <link>https://yihanwangastro.github.io/tag/agn-host-galaxies/</link>
+    </image>
+    
+    <item>
+      <title>Changing-look Active Galactic Nuclei Behavior Induced by Disk-captured Tidal Disruption Events</title>
+      <link>https://yihanwangastro.github.io/publication/2024-ap-j-962-l-7-w/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://yihanwangastro.github.io/publication/2024-ap-j-962-l-7-w/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
