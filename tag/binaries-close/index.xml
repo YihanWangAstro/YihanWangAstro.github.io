@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Binaries: Close | Yihan Wang (王艺涵)</title>
+    <link>./tag/binaries-close/</link>
+      <atom:link href="./tag/binaries-close/index.xml" rel="self" type="application/rss+xml" />
+    <description>Binaries: Close</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>./media/icon_hu_9c14d1e75cf499a6.png</url>
+      <title>Binaries: Close</title>
+      <link>./tag/binaries-close/</link>
+    </image>
+    
+    <item>
+      <title>Modified evolution of stellar binaries from supermassive black hole binaries</title>
+      <link>./publication/2017-mnras-466-3376-l/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>./publication/2017-mnras-466-3376-l/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

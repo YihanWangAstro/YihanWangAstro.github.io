@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Methods: Numerical | Yihan Wang (王艺涵)</title>
+    <link>./tag/methods-numerical/</link>
+      <atom:link href="./tag/methods-numerical/index.xml" rel="self" type="application/rss+xml" />
+    <description>Methods: Numerical</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>./media/icon_hu_9c14d1e75cf499a6.png</url>
+      <title>Methods: Numerical</title>
+      <link>./tag/methods-numerical/</link>
+    </image>
+    
+    <item>
+      <title>Anisotropic energy injection from magnetar central engines in short GRBs</title>
+      <link>./publication/2024-mnras-528-3705-w/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>./publication/2024-mnras-528-3705-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SpaceHub: A high-performance gravity integration toolkit for few-body problems in astrophysics</title>
+      <link>./publication/2021-mnras-505-1053-w/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>./publication/2021-mnras-505-1053-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constraining the Black Hole Initial Mass Function with LIGO/Virgo Observations</title>
+      <link>./publication/2019-ap-j-878-l-1-p/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>./publication/2019-ap-j-878-l-1-p/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The fate of close encounters between binary stars and binary supermassive black holes</title>
+      <link>./publication/2018-mnras-475-4595-w/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>./publication/2018-mnras-475-4595-w/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

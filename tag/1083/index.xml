@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1083 | Yihan Wang (王艺涵)</title>
+    <link>./tag/1083/</link>
+      <atom:link href="./tag/1083/index.xml" rel="self" type="application/rss+xml" />
+    <description>1083</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>./media/icon_hu_9c14d1e75cf499a6.png</url>
+      <title>1083</title>
+      <link>./tag/1083/</link>
+    </image>
+    
+    <item>
+      <title>Evolution of Extremely Soft Binaries in Dense Star Clusters: On the Jupiter Mass Binary Objects</title>
+      <link>./publication/2025-ap-j-982-90-w/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>./publication/2025-ap-j-982-90-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hot Jupiter and Ultra-cold Saturn Formation in Dense Star Clusters</title>
+      <link>./publication/2020-ap-j-905-136-w/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>./publication/2020-ap-j-905-136-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Giant Planet Swaps during Close Stellar Encounters</title>
+      <link>./publication/2020-ap-j-891-l-14-w/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>./publication/2020-ap-j-891-l-14-w/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

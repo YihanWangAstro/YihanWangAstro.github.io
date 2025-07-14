@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galaxies: Star Clusters: General | Yihan Wang (王艺涵)</title>
+    <link>./tag/galaxies-star-clusters-general/</link>
+      <atom:link href="./tag/galaxies-star-clusters-general/index.xml" rel="self" type="application/rss+xml" />
+    <description>Galaxies: Star Clusters: General</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>./media/icon_hu_9c14d1e75cf499a6.png</url>
+      <title>Galaxies: Star Clusters: General</title>
+      <link>./tag/galaxies-star-clusters-general/</link>
+    </image>
+    
+    <item>
+      <title>The cosmological distribution of compact object mergers from dynamical interactions with SMBH binaries</title>
+      <link>./publication/2019-mnras-490-2627-w/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>./publication/2019-mnras-490-2627-w/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

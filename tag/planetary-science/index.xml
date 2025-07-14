@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Planetary Science | Yihan Wang (王艺涵)</title>
+    <link>./tag/planetary-science/</link>
+      <atom:link href="./tag/planetary-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Planetary Science</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>./media/icon_hu_9c14d1e75cf499a6.png</url>
+      <title>Planetary Science</title>
+      <link>./tag/planetary-science/</link>
+    </image>
+    
+    <item>
+      <title>Hot Jupiter and Ultra-cold Saturn Formation in Dense Star Clusters</title>
+      <link>./publication/2020-ap-j-905-136-w/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>./publication/2020-ap-j-905-136-w/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

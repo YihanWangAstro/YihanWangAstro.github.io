@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>High Energy Astrophysical Phenomena | Yihan Wang (王艺涵)</title>
+    <link>./tag/high-energy-astrophysical-phenomena/</link>
+      <atom:link href="./tag/high-energy-astrophysical-phenomena/index.xml" rel="self" type="application/rss+xml" />
+    <description>High Energy Astrophysical Phenomena</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>./media/icon_hu_9c14d1e75cf499a6.png</url>
+      <title>High Energy Astrophysical Phenomena</title>
+      <link>./tag/high-energy-astrophysical-phenomena/</link>
+    </image>
+    
+    <item>
+      <title>X-ray Emission Signatures of Neutron Star Mergers</title>
+      <link>./publication/2025-ar-xiv-250501606-c/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>./publication/2025-ar-xiv-250501606-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An extremely soft and weak fast X-ray transient associated with a luminous supernova</title>
+      <link>./publication/2025-ar-xiv-250417034-l/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>./publication/2025-ar-xiv-250417034-l/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

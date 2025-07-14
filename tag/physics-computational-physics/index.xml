@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Physics - Computational Physics | Yihan Wang (王艺涵)</title>
+    <link>./tag/physics-computational-physics/</link>
+      <atom:link href="./tag/physics-computational-physics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Physics - Computational Physics</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>./media/icon_hu_9c14d1e75cf499a6.png</url>
+      <title>Physics - Computational Physics</title>
+      <link>./tag/physics-computational-physics/</link>
+    </image>
+    
+    <item>
+      <title>SpaceHub: A high-performance gravity integration toolkit for few-body problems in astrophysics</title>
+      <link>./publication/2021-mnras-505-1053-w/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>./publication/2021-mnras-505-1053-w/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

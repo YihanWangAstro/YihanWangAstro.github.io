@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>16 | Yihan Wang (王艺涵)</title>
+    <link>./tag/16/</link>
+      <atom:link href="./tag/16/index.xml" rel="self" type="application/rss+xml" />
+    <description>16</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>./media/icon_hu_9c14d1e75cf499a6.png</url>
+      <title>16</title>
+      <link>./tag/16/</link>
+    </image>
+    
+    <item>
+      <title>``Tidal Peeling Events&#39;&#39;: Low-eccentricity Tidal Disruption of a Star by a Stellar-mass Black Hole</title>
+      <link>./publication/2024-ap-j-961-149-x/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>./publication/2024-ap-j-961-149-x/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Changing-look Active Galactic Nuclei Behavior Induced by Disk-captured Tidal Disruption Events</title>
+      <link>./publication/2024-ap-j-962-l-7-w/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>./publication/2024-ap-j-962-l-7-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Symmetry Breaking in Dynamical Encounters in the Disks of Active Galactic Nuclei</title>
+      <link>./publication/2021-ap-j-923-l-23-w/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>./publication/2021-ap-j-923-l-23-w/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

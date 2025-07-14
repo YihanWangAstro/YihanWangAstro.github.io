@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>486 | Yihan Wang (王艺涵)</title>
+    <link>./tag/486/</link>
+      <atom:link href="./tag/486/index.xml" rel="self" type="application/rss+xml" />
+    <description>486</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>./media/icon_hu_9c14d1e75cf499a6.png</url>
+      <title>486</title>
+      <link>./tag/486/</link>
+    </image>
+    
+    <item>
+      <title>Giant Planet Swaps during Close Stellar Encounters</title>
+      <link>./publication/2020-ap-j-891-l-14-w/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>./publication/2020-ap-j-891-l-14-w/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

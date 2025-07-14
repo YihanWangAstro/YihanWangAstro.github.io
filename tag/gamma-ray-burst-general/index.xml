@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gamma-Ray Burst: General | Yihan Wang (王艺涵)</title>
+    <link>./tag/gamma-ray-burst-general/</link>
+      <atom:link href="./tag/gamma-ray-burst-general/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gamma-Ray Burst: General</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>./media/icon_hu_9c14d1e75cf499a6.png</url>
+      <title>Gamma-Ray Burst: General</title>
+      <link>./tag/gamma-ray-burst-general/</link>
+    </image>
+    
+    <item>
+      <title>Anisotropic energy injection from magnetar central engines in short GRBs</title>
+      <link>./publication/2024-mnras-528-3705-w/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>./publication/2024-mnras-528-3705-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The emergence of diffused gamma-ray burst afterglows from the discs of active galactic nuclei</title>
+      <link>./publication/2022-mnras-516-5935-w/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>./publication/2022-mnras-516-5935-w/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

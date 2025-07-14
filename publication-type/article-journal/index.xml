@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Article-Journal | Yihan Wang (王艺涵)</title>
+    <link>./publication-type/article-journal/</link>
+      <atom:link href="./publication-type/article-journal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Article-Journal</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>./media/icon_hu_9c14d1e75cf499a6.png</url>
+      <title>Article-Journal</title>
+      <link>./publication-type/article-journal/</link>
+    </image>
+    
+    <item>
+      <title>X-ray Emission Signatures of Neutron Star Mergers</title>
+      <link>./publication/2025-ar-xiv-250501606-c/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>./publication/2025-ar-xiv-250501606-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An extremely soft and weak fast X-ray transient associated with a luminous supernova</title>
+      <link>./publication/2025-ar-xiv-250417034-l/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>./publication/2025-ar-xiv-250417034-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolution of Extremely Soft Binaries in Dense Star Clusters: On the Jupiter Mass Binary Objects</title>
+      <link>./publication/2025-ap-j-982-90-w/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>./publication/2025-ap-j-982-90-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evidence of a past merger of the Galactic Centre black hole</title>
+      <link>./publication/2024-nat-as-8-1592-w/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>./publication/2024-nat-as-8-1592-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conditions for Changing-Look AGNs from Accretion Disk-Induced Tidal Disruption Events</title>
+      <link>./publication/2024-ar-xiv-240612096-w/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>./publication/2024-ar-xiv-240612096-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tidal disruption events from three-body scatterings and eccentricity pumping in the discs of active galactic nuclei</title>
+      <link>./publication/2024-mnras-531-1409-p/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>./publication/2024-mnras-531-1409-p/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
