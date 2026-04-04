@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Few-Body Dynamics | Yihan Wang (王艺涵)</title>
+    <link>./tag/few-body-dynamics/</link>
+      <atom:link href="./tag/few-body-dynamics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Few-Body Dynamics</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>./media/icon_hu_5f4ae6b6057760e0.png</url>
+      <title>Few-Body Dynamics</title>
+      <link>./tag/few-body-dynamics/</link>
+    </image>
+    
+    <item>
+      <title>SpaceHub</title>
+      <link>./project/spacehub/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>./project/spacehub/</guid>
+      <description>&lt;p&gt;SpaceHub is a state-of-the-art few-body gravity integration toolkit built in C++. It implements Algorithmic Regularization (AR) and symplectic integrators to handle scenarios that break conventional codes:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$ spacehub --status
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;┌─────────────────────────────────────────────┐
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  SpaceHub v1.0                              │
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  Extreme mass ratios      ✓                 │
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  High eccentricities      ✓                 │
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  Close encounters         ✓                 │
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  Round-off error control  ✓                 │
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  Long-term integration    ✓                 │
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;└─────────────────────────────────────────────┘
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Key Features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Algorithmic Regularization for extreme mass ratios (e.g., SMBH + stellar-mass objects)&lt;/li&gt;
+&lt;li&gt;Symplectic integrators ensuring time-reversibility&lt;/li&gt;
+&lt;li&gt;Rigorous round-off error control for long-term orbital evolution&lt;/li&gt;
+&lt;li&gt;Easy-to-use API designed for community adoption&lt;/li&gt;
+&lt;li&gt;Applications: SMBH binaries, planetary system evolution, chaotic star clusters&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Publication:&lt;/strong&gt; Wang et al. (2021), MNRAS, 505, 1053&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

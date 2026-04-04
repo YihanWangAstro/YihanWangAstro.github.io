@@ -13,6 +13,96 @@
     </image>
     
     <item>
+<<<<<<< Updated upstream
+=======
+      <title>VegasAfterglow: A high-performance framework for gamma-ray burst afterglows</title>
+      <link>./publication/2026-jhe-ap-5000490-w/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>./publication/2026-jhe-ap-5000490-w/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multiwavelength Observations of the Apparently Nonrepeating FRB 20250316A</title>
+      <link>./publication/2025-ap-j-995-8-l/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>./publication/2025-ap-j-995-8-l/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>X-ray Emission Signatures of Neutron Star Mergers</title>
+      <link>./publication/2025-ar-xiv-250501606-c/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>./publication/2025-ar-xiv-250501606-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An extremely soft and weak fast X-ray transient associated with a luminous supernova</title>
+      <link>./publication/2025-ar-xiv-250417034-l/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>./publication/2025-ar-xiv-250417034-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolution of Extremely Soft Binaries in Dense Star Clusters: On the Jupiter Mass Binary Objects</title>
+      <link>./publication/2025-ap-j-982-90-w/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>./publication/2025-ap-j-982-90-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VegasAfterglow</title>
+      <link>./project/vegasafterglow/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>./project/vegasafterglow/</guid>
+      <description>&lt;p&gt;VegasAfterglow is a high-performance computational framework combining C++ efficiency with Python accessibility for gamma-ray burst afterglow modeling.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$ pip install VegasAfterglow
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$ python -c &amp;#34;import VegasAfterglow; print(&amp;#39;ready&amp;#39;)&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ready
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;┌─────────────────────────────────────────────┐
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  VegasAfterglow                             │
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  Light curve generation   ~ms               │
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  MCMC inference           ✓                 │
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  Forward + reverse shock  ✓                 │
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  Synchrotron self-Compton ✓                 │
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  Structured jets          ✓                 │
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;└─────────────────────────────────────────────┘
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Key Features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Generates light curves in milliseconds — enabling rapid MCMC parameter inference&lt;/li&gt;
+&lt;li&gt;Forward and reverse shock modeling across relativistic and non-relativistic regimes&lt;/li&gt;
+&lt;li&gt;Synchrotron self-Compton emission&lt;/li&gt;
+&lt;li&gt;Flexible jet structures with arbitrary viewing angles&lt;/li&gt;
+&lt;li&gt;Python interface for seamless integration with standard fitting tools&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Publication:&lt;/strong&gt; Wang, Chen &amp;amp; Zhang (2025), JHEAP&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evidence of a past merger of the Galactic Centre black hole</title>
+      <link>./publication/2024-nat-as-8-1592-w/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>./publication/2024-nat-as-8-1592-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conditions for Changing-Look AGNs from Accretion Disk-Induced Tidal Disruption Events</title>
+      <link>./publication/2024-ar-xiv-240612096-w/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>./publication/2024-ar-xiv-240612096-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+>>>>>>> Stashed changes
       <title>Free-floating binary planets from ejections during close stellar encounters</title>
       <link>https://yihanwangastro.github.io/publication/2024-nat-as-tmp-78-w/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
@@ -189,6 +279,33 @@
     </item>
     
     <item>
+      <title>SpaceHub</title>
+      <link>./project/spacehub/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>./project/spacehub/</guid>
+      <description>&lt;p&gt;SpaceHub is a state-of-the-art few-body gravity integration toolkit built in C++. It implements Algorithmic Regularization (AR) and symplectic integrators to handle scenarios that break conventional codes:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$ spacehub --status
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;┌─────────────────────────────────────────────┐
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  SpaceHub v1.0                              │
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  Extreme mass ratios      ✓                 │
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  High eccentricities      ✓                 │
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  Close encounters         ✓                 │
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  Round-off error control  ✓                 │
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  Long-term integration    ✓                 │
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;└─────────────────────────────────────────────┘
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Key Features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Algorithmic Regularization for extreme mass ratios (e.g., SMBH + stellar-mass objects)&lt;/li&gt;
+&lt;li&gt;Symplectic integrators ensuring time-reversibility&lt;/li&gt;
+&lt;li&gt;Rigorous round-off error control for long-term orbital evolution&lt;/li&gt;
+&lt;li&gt;Easy-to-use API designed for community adoption&lt;/li&gt;
+&lt;li&gt;Applications: SMBH binaries, planetary system evolution, chaotic star clusters&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Publication:&lt;/strong&gt; Wang et al. (2021), MNRAS, 505, 1053&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
       <link>https://yihanwangastro.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
@@ -289,6 +406,31 @@
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://yihanwangastro.github.io/publication/2020-ap-j-891-l-14-w/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Secular</title>
+      <link>./project/secular/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>./project/secular/</guid>
+      <description>&lt;p&gt;Secular is a fast solver for hierarchical secular dynamics, designed for studying long-term orbital evolution in triple and quadruple stellar/planetary systems.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$ secular --info
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;┌─────────────────────────────────────────────┐
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  Secular Dynamics Solver                    │
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  Hierarchical triples     ✓                 │
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  Quadruple systems        ✓                 │
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  Lidov-Kozai oscillations ✓                 │
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  Stability analysis       ✓                 │
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  Highly optimized         ✓                 │
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;└─────────────────────────────────────────────┘
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Key Features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Solves orbit-averaged equations of motion for hierarchical systems&lt;/li&gt;
+&lt;li&gt;Highly optimized for Lidov-Kozai oscillation studies&lt;/li&gt;
+&lt;li&gt;Long-term stability limit analysis&lt;/li&gt;
+&lt;li&gt;Applications: triple star systems, planet–binary interactions, compact object mergers&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -489,6 +631,7 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+<<<<<<< Updated upstream
       <title>Example Project</title>
       <link>https://yihanwangastro.github.io/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -502,6 +645,8 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+=======
+>>>>>>> Stashed changes
       <title></title>
       <link>https://yihanwangastro.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

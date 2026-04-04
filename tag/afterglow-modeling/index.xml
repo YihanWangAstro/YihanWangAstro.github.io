@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Afterglow Modeling | Yihan Wang (王艺涵)</title>
+    <link>./tag/afterglow-modeling/</link>
+      <atom:link href="./tag/afterglow-modeling/index.xml" rel="self" type="application/rss+xml" />
+    <description>Afterglow Modeling</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>./media/icon_hu_5f4ae6b6057760e0.png</url>
+      <title>Afterglow Modeling</title>
+      <link>./tag/afterglow-modeling/</link>
+    </image>
+    
+    <item>
+      <title>VegasAfterglow</title>
+      <link>./project/vegasafterglow/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>./project/vegasafterglow/</guid>
+      <description>&lt;p&gt;VegasAfterglow is a high-performance computational framework combining C++ efficiency with Python accessibility for gamma-ray burst afterglow modeling.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$ pip install VegasAfterglow
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$ python -c &amp;#34;import VegasAfterglow; print(&amp;#39;ready&amp;#39;)&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ready
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;┌─────────────────────────────────────────────┐
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  VegasAfterglow                             │
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  Light curve generation   ~ms               │
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  MCMC inference           ✓                 │
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  Forward + reverse shock  ✓                 │
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  Synchrotron self-Compton ✓                 │
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  Structured jets          ✓                 │
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;└─────────────────────────────────────────────┘
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Key Features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Generates light curves in milliseconds — enabling rapid MCMC parameter inference&lt;/li&gt;
+&lt;li&gt;Forward and reverse shock modeling across relativistic and non-relativistic regimes&lt;/li&gt;
+&lt;li&gt;Synchrotron self-Compton emission&lt;/li&gt;
+&lt;li&gt;Flexible jet structures with arbitrary viewing angles&lt;/li&gt;
+&lt;li&gt;Python interface for seamless integration with standard fitting tools&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Publication:&lt;/strong&gt; Wang, Chen &amp;amp; Zhang (2025), JHEAP&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
