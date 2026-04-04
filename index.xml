@@ -2,19 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yihan Wang (王艺涵)</title>
-    <link>https://yihanwangastro.github.io/</link>
-      <atom:link href="https://yihanwangastro.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>./</link>
+      <atom:link href="./index.xml" rel="self" type="application/rss+xml" />
     <description>Yihan Wang (王艺涵)</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yihanwangastro.github.io/media/icon_hu21cdc11b738e3f88727c5700766a58fa_208545_512x512_fill_lanczos_center_3.png</url>
+      <url>./media/icon_hu_5f4ae6b6057760e0.png</url>
       <title>Yihan Wang (王艺涵)</title>
-      <link>https://yihanwangastro.github.io/</link>
+      <link>./</link>
     </image>
     
     <item>
-<<<<<<< Updated upstream
-=======
       <title>VegasAfterglow: A high-performance framework for gamma-ray burst afterglows</title>
       <link>./publication/2026-jhe-ap-5000490-w/</link>
       <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
@@ -102,179 +100,131 @@
     </item>
     
     <item>
->>>>>>> Stashed changes
       <title>Free-floating binary planets from ejections during close stellar encounters</title>
-      <link>https://yihanwangastro.github.io/publication/2024-nat-as-tmp-78-w/</link>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/publication/2024-nat-as-tmp-78-w/</guid>
-      <description></description>
+      <link>./publication/2024-nat-as-8-756-w/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>./publication/2024-nat-as-8-756-w/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Evidence of a Past Merger of the Galactic Center Black Hole</title>
-      <link>https://yihanwangastro.github.io/publication/2024-ar-xiv-240306416-w/</link>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/publication/2024-ar-xiv-240306416-w/</guid>
+      <title>Tidal disruption events from three-body scatterings and eccentricity pumping in the discs of active galactic nuclei</title>
+      <link>./publication/2024-mnras-531-1409-p/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>./publication/2024-mnras-531-1409-p/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stellar/BH population in AGN discs: direct binary formation from capture objects in nuclei clusters</title>
-      <link>https://yihanwangastro.github.io/publication/2024-mnras-528-4958-w/</link>
+      <link>./publication/2024-mnras-528-4958-w/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/publication/2024-mnras-528-4958-w/</guid>
+      <guid>./publication/2024-mnras-528-4958-w/</guid>
       <description></description>
     </item>
     
     <item>
       <title>``Tidal Peeling Events&#39;&#39;: Low-eccentricity Tidal Disruption of a Star by a Stellar-mass Black Hole</title>
-      <link>https://yihanwangastro.github.io/publication/2024-ap-j-961-149-x/</link>
+      <link>./publication/2024-ap-j-961-149-x/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/publication/2024-ap-j-961-149-x/</guid>
+      <guid>./publication/2024-ap-j-961-149-x/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Anisotropic energy injection from magnetar central engines in short GRBs</title>
-      <link>https://yihanwangastro.github.io/publication/2024-mnras-528-3705-w/</link>
+      <link>./publication/2024-mnras-528-3705-w/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/publication/2024-mnras-528-3705-w/</guid>
+      <guid>./publication/2024-mnras-528-3705-w/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Changing-look Active Galactic Nuclei Behavior Induced by Disk-captured Tidal Disruption Events</title>
-      <link>https://yihanwangastro.github.io/publication/2024-ap-j-962-l-7-w/</link>
+      <link>./publication/2024-ap-j-962-l-7-w/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/publication/2024-ap-j-962-l-7-w/</guid>
+      <guid>./publication/2024-ap-j-962-l-7-w/</guid>
       <description></description>
     </item>
     
     <item>
       <title>My Article Name</title>
-      <link>https://yihanwangastro.github.io/post/my-article-name/</link>
+      <link>./post/my-article-name/</link>
       <pubDate>Wed, 06 Sep 2023 16:03:25 -0700</pubDate>
-      <guid>https://yihanwangastro.github.io/post/my-article-name/</guid>
+      <guid>./post/my-article-name/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tidal Disruption Events from three-body scatterings in the disks of Active Galactic Nuclei</title>
-      <link>https://yihanwangastro.github.io/publication/2023-ar-xiv-231000020-p/</link>
+      <link>./publication/2023-ar-xiv-231000020-p/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/publication/2023-ar-xiv-231000020-p/</guid>
+      <guid>./publication/2023-ar-xiv-231000020-p/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effective two-body scatterings around a massive object</title>
-      <link>https://yihanwangastro.github.io/publication/2023-mnras-523-2014-w/</link>
+      <link>./publication/2023-mnras-523-2014-w/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/publication/2023-mnras-523-2014-w/</guid>
+      <guid>./publication/2023-mnras-523-2014-w/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The emergence of diffused gamma-ray burst afterglows from the discs of active galactic nuclei</title>
-      <link>https://yihanwangastro.github.io/publication/2022-mnras-516-5935-w/</link>
+      <link>./publication/2022-mnras-516-5935-w/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/publication/2022-mnras-516-5935-w/</guid>
+      <guid>./publication/2022-mnras-516-5935-w/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Close encounters of stars with stellar-mass black hole binaries</title>
-      <link>https://yihanwangastro.github.io/publication/2022-mnras-516-2204-r/</link>
+      <link>./publication/2022-mnras-516-2204-r/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/publication/2022-mnras-516-2204-r/</guid>
+      <guid>./publication/2022-mnras-516-2204-r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Host galaxies and electromagnetic counterparts to binary neutron star mergers across the cosmic time: detectability of GW170817-like events</title>
-      <link>https://yihanwangastro.github.io/publication/2022-mnras-512-2654-p/</link>
+      <link>./publication/2022-mnras-512-2654-p/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/publication/2022-mnras-512-2654-p/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Symmetry breaking in dynamical encounters in the disks of active galactic nuclei</title>
-      <link>https://yihanwangastro.github.io/talk/symmetry-breaking-in-dynamical-encounters-in-the-disks-of-active-galactic-nuclei/</link>
-      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/talk/symmetry-breaking-in-dynamical-encounters-in-the-disks-of-active-galactic-nuclei/</guid>
+      <guid>./publication/2022-mnras-512-2654-p/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hot Jupiter formation in dense clusters: secular chaos in multiplanetary systems</title>
-      <link>https://yihanwangastro.github.io/publication/2022-mnras-509-5253-w/</link>
+      <link>./publication/2022-mnras-509-5253-w/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/publication/2022-mnras-509-5253-w/</guid>
+      <guid>./publication/2022-mnras-509-5253-w/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Symmetry Breaking in Dynamical Encounters in the Disks of Active Galactic Nuclei</title>
-      <link>https://yihanwangastro.github.io/publication/2021-ap-j-923-l-23-w/</link>
+      <link>./publication/2021-ap-j-923-l-23-w/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/publication/2021-ap-j-923-l-23-w/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hot Jupiter formation in star clusters</title>
-      <link>https://yihanwangastro.github.io/talk/hot-jupiter-formation-in-star-clusters/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/talk/hot-jupiter-formation-in-star-clusters/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>High precision few-body integrator SpaceHub and Planetary system in dense clusters</title>
-      <link>https://yihanwangastro.github.io/talk/high-precision-few-body-integrator-spacehub-and-planetary-system-in-dense-clusters/</link>
-      <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/talk/high-precision-few-body-integrator-spacehub-and-planetary-system-in-dense-clusters/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hot Jupiter formation in dense clusters</title>
-      <link>https://yihanwangastro.github.io/talk/hot-jupiter-formation-in-dense-clusters/</link>
-      <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/talk/hot-jupiter-formation-in-dense-clusters/</guid>
+      <guid>./publication/2021-ap-j-923-l-23-w/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SpaceHub: A high-performance gravity integration toolkit for few-body problems in astrophysics</title>
-      <link>https://yihanwangastro.github.io/publication/2021-mnras-505-1053-w/</link>
+      <link>./publication/2021-mnras-505-1053-w/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/publication/2021-mnras-505-1053-w/</guid>
+      <guid>./publication/2021-mnras-505-1053-w/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Partial tidal disruption events by stellar mass black holes: Gravitational instability of stream and impact from remnant core</title>
-      <link>https://yihanwangastro.github.io/publication/2021-mnras-503-6005-w/</link>
+      <link>./publication/2021-mnras-503-6005-w/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/publication/2021-mnras-503-6005-w/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tidal disruption events by stellar mass black hole</title>
-      <link>https://yihanwangastro.github.io/talk/tidal-disruption-events-by-stellar-mass-black-hole/</link>
-      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/talk/tidal-disruption-events-by-stellar-mass-black-hole/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hot Jupiter formation in star clusters</title>
-      <link>https://yihanwangastro.github.io/talk/hot-jupiter-formation-in-star-clusters/</link>
-      <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/talk/hot-jupiter-formation-in-star-clusters/</guid>
+      <guid>./publication/2021-mnras-503-6005-w/</guid>
       <description></description>
     </item>
     
@@ -307,9 +257,9 @@
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://yihanwangastro.github.io/post/getting-started/</link>
+      <link>./post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/post/getting-started/</guid>
+      <guid>./post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -332,12 +282,15 @@
 
 
 
+
+
 &lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
@@ -349,7 +302,7 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
 &lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
-&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans&#34;&gt;&lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemy&#34;&gt;&lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
 &lt;ul&gt;
@@ -386,25 +339,25 @@
     
     <item>
       <title>Hot Jupiter and Ultra-cold Saturn Formation in Dense Star Clusters</title>
-      <link>https://yihanwangastro.github.io/publication/2020-ap-j-905-136-w/</link>
+      <link>./publication/2020-ap-j-905-136-w/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/publication/2020-ap-j-905-136-w/</guid>
+      <guid>./publication/2020-ap-j-905-136-w/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Planetary architectures in interacting stellar environments</title>
-      <link>https://yihanwangastro.github.io/publication/2020-mnras-496-1453-w/</link>
+      <link>./publication/2020-mnras-496-1453-w/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/publication/2020-mnras-496-1453-w/</guid>
+      <guid>./publication/2020-mnras-496-1453-w/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Giant Planet Swaps during Close Stellar Encounters</title>
-      <link>https://yihanwangastro.github.io/publication/2020-ap-j-891-l-14-w/</link>
+      <link>./publication/2020-ap-j-891-l-14-w/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/publication/2020-ap-j-891-l-14-w/</guid>
+      <guid>./publication/2020-ap-j-891-l-14-w/</guid>
       <description></description>
     </item>
     
@@ -435,222 +388,65 @@
     
     <item>
       <title>The cosmological distribution of compact object mergers from dynamical interactions with SMBH binaries</title>
-      <link>https://yihanwangastro.github.io/publication/2019-mnras-490-2627-w/</link>
+      <link>./publication/2019-mnras-490-2627-w/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/publication/2019-mnras-490-2627-w/</guid>
+      <guid>./publication/2019-mnras-490-2627-w/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Binary Mergers near a Supermassive Black Hole: Relativistic Effects in Triples</title>
-      <link>https://yihanwangastro.github.io/publication/2019-ap-j-883-l-7-l/</link>
+      <link>./publication/2019-ap-j-883-l-7-l/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/publication/2019-ap-j-883-l-7-l/</guid>
+      <guid>./publication/2019-ap-j-883-l-7-l/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Black Hole and Neutron Star Binary Mergers in Triple Systems. II. Merger Eccentricity and Spin-Orbit Misalignment</title>
-      <link>https://yihanwangastro.github.io/publication/2019-ap-j-881-41-l/</link>
+      <link>./publication/2019-ap-j-881-41-l/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/publication/2019-ap-j-881-41-l/</guid>
+      <guid>./publication/2019-ap-j-881-41-l/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Constraining the Black Hole Initial Mass Function with LIGO/Virgo Observations</title>
-      <link>https://yihanwangastro.github.io/publication/2019-ap-j-878-l-1-p/</link>
+      <link>./publication/2019-ap-j-878-l-1-p/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/publication/2019-ap-j-878-l-1-p/</guid>
+      <guid>./publication/2019-ap-j-878-l-1-p/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Slides</title>
-      <link>https://yihanwangastro.github.io/slides/example/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/slides/example/</guid>
-      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
-&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
-&lt;li&gt;Supports speaker notes&lt;/li&gt;
-&lt;li&gt;Mobile friendly slides&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://revealjs.com/pdf-export/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
-&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;Code block:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
-&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
-&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
-&lt;p&gt;Block math:&lt;/p&gt;
-&lt;p&gt;$$
-f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
-&lt;p&gt;Make content appear incrementally&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-  One
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-  &lt;strong&gt;Two&lt;/strong&gt;
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-  Three
-&lt;/span&gt;
-&lt;hr&gt;
-&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
-&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  {{% /speaker_note %}}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
-&lt;aside class=&#34;notes&#34;&gt;
-  &lt;ul&gt;
-&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
-&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;/aside&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
-&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
-&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
-&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
-&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
-&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-
-&lt;section data-noprocess data-shortcode-slide
-  
-      
-      data-background-image=&#34;/media/boards.jpg&#34;
-  &gt;
-
-&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
-&lt;p&gt;Customize the slide style and background&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
-&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
-&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
-&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
-&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-</description>
     </item>
     
     <item>
       <title>Hypervelocity binaries from close encounters with a SMBH-IMBH binary: orbital properties and diagnostics</title>
-      <link>https://yihanwangastro.github.io/publication/2019-mnras-482-3206-w/</link>
+      <link>./publication/2019-mnras-482-3206-w/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/publication/2019-mnras-482-3206-w/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hypervelocity binary and extragalactic merger event</title>
-      <link>https://yihanwangastro.github.io/talk/hypervelocity-binary-and-extragalactic-merger-event/</link>
-      <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/talk/hypervelocity-binary-and-extragalactic-merger-event/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>High precision few-body integration methods for extremely eccentric orbits</title>
-      <link>https://yihanwangastro.github.io/talk/high-precision-few-body-integration-methods-for-extremely-eccentric-orbits/</link>
-      <pubDate>Wed, 20 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/talk/high-precision-few-body-integration-methods-for-extremely-eccentric-orbits/</guid>
+      <guid>./publication/2019-mnras-482-3206-w/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The fate of close encounters between binary stars and binary supermassive black holes</title>
-      <link>https://yihanwangastro.github.io/publication/2018-mnras-475-4595-w/</link>
+      <link>./publication/2018-mnras-475-4595-w/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/publication/2018-mnras-475-4595-w/</guid>
+      <guid>./publication/2018-mnras-475-4595-w/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modified evolution of stellar binaries from supermassive black hole binaries</title>
-      <link>https://yihanwangastro.github.io/publication/2017-mnras-466-3376-l/</link>
+      <link>./publication/2017-mnras-466-3376-l/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/publication/2017-mnras-466-3376-l/</guid>
+      <guid>./publication/2017-mnras-466-3376-l/</guid>
       <description></description>
     </item>
     
     <item>
-<<<<<<< Updated upstream
-      <title>Example Project</title>
-      <link>https://yihanwangastro.github.io/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-=======
->>>>>>> Stashed changes
       <title></title>
-      <link>https://yihanwangastro.github.io/admin/config.yml</link>
+      <link>./admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/admin/config.yml</guid>
+      <guid>./admin/</guid>
       <description></description>
     </item>
     

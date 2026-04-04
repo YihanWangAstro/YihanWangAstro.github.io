@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hydrodynamics | Yihan Wang (王艺涵)</title>
-    <link>https://yihanwangastro.github.io/tag/hydrodynamics/</link>
-      <atom:link href="https://yihanwangastro.github.io/tag/hydrodynamics/index.xml" rel="self" type="application/rss+xml" />
-    <description>hydrodynamics</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <title>Hydrodynamics | Yihan Wang (王艺涵)</title>
+    <link>./tag/hydrodynamics/</link>
+      <atom:link href="./tag/hydrodynamics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hydrodynamics</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yihanwangastro.github.io/media/icon_hu21cdc11b738e3f88727c5700766a58fa_208545_512x512_fill_lanczos_center_3.png</url>
-      <title>hydrodynamics</title>
-      <link>https://yihanwangastro.github.io/tag/hydrodynamics/</link>
+      <url>./media/icon_hu_5f4ae6b6057760e0.png</url>
+      <title>Hydrodynamics</title>
+      <link>./tag/hydrodynamics/</link>
     </image>
     
     <item>
       <title>Close encounters of stars with stellar-mass black hole binaries</title>
-      <link>https://yihanwangastro.github.io/publication/2022-mnras-516-2204-r/</link>
+      <link>./publication/2022-mnras-516-2204-r/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/publication/2022-mnras-516-2204-r/</guid>
+      <guid>./publication/2022-mnras-516-2204-r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Partial tidal disruption events by stellar mass black holes: Gravitational instability of stream and impact from remnant core</title>
-      <link>https://yihanwangastro.github.io/publication/2021-mnras-503-6005-w/</link>
+      <link>./publication/2021-mnras-503-6005-w/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/publication/2021-mnras-503-6005-w/</guid>
+      <guid>./publication/2021-mnras-503-6005-w/</guid>
       <description></description>
     </item>
     

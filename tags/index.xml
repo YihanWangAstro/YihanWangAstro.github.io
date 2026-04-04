@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Yihan Wang (王艺涵)</title>
-    <link>https://yihanwangastro.github.io/tags/</link>
-      <atom:link href="https://yihanwangastro.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>./tags/</link>
+      <atom:link href="./tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yihanwangastro.github.io/media/icon_hu21cdc11b738e3f88727c5700766a58fa_208545_512x512_fill_lanczos_center_3.png</url>
+      <url>./media/icon_hu_5f4ae6b6057760e0.png</url>
       <title>Tags</title>
-      <link>https://yihanwangastro.github.io/tags/</link>
+      <link>./tags/</link>
     </image>
     
   </channel>

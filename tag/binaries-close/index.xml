@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>binaries: close | Yihan Wang (王艺涵)</title>
-    <link>https://yihanwangastro.github.io/tag/binaries-close/</link>
-      <atom:link href="https://yihanwangastro.github.io/tag/binaries-close/index.xml" rel="self" type="application/rss+xml" />
-    <description>binaries: close</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <title>Binaries: Close | Yihan Wang (王艺涵)</title>
+    <link>./tag/binaries-close/</link>
+      <atom:link href="./tag/binaries-close/index.xml" rel="self" type="application/rss+xml" />
+    <description>Binaries: Close</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yihanwangastro.github.io/media/icon_hu21cdc11b738e3f88727c5700766a58fa_208545_512x512_fill_lanczos_center_3.png</url>
-      <title>binaries: close</title>
-      <link>https://yihanwangastro.github.io/tag/binaries-close/</link>
+      <url>./media/icon_hu_5f4ae6b6057760e0.png</url>
+      <title>Binaries: Close</title>
+      <link>./tag/binaries-close/</link>
     </image>
     
     <item>
       <title>Modified evolution of stellar binaries from supermassive black hole binaries</title>
-      <link>https://yihanwangastro.github.io/publication/2017-mnras-466-3376-l/</link>
+      <link>./publication/2017-mnras-466-3376-l/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/publication/2017-mnras-466-3376-l/</guid>
+      <guid>./publication/2017-mnras-466-3376-l/</guid>
       <description></description>
     </item>
     

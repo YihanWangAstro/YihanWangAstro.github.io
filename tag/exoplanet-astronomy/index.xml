@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Exoplanet astronomy | Yihan Wang (王艺涵)</title>
-    <link>https://yihanwangastro.github.io/tag/exoplanet-astronomy/</link>
-      <atom:link href="https://yihanwangastro.github.io/tag/exoplanet-astronomy/index.xml" rel="self" type="application/rss+xml" />
-    <description>Exoplanet astronomy</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <title>Exoplanet Astronomy | Yihan Wang (王艺涵)</title>
+    <link>./tag/exoplanet-astronomy/</link>
+      <atom:link href="./tag/exoplanet-astronomy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Exoplanet Astronomy</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yihanwangastro.github.io/media/icon_hu21cdc11b738e3f88727c5700766a58fa_208545_512x512_fill_lanczos_center_3.png</url>
-      <title>Exoplanet astronomy</title>
-      <link>https://yihanwangastro.github.io/tag/exoplanet-astronomy/</link>
+      <url>./media/icon_hu_5f4ae6b6057760e0.png</url>
+      <title>Exoplanet Astronomy</title>
+      <link>./tag/exoplanet-astronomy/</link>
     </image>
     
     <item>
       <title>Giant Planet Swaps during Close Stellar Encounters</title>
-      <link>https://yihanwangastro.github.io/publication/2020-ap-j-891-l-14-w/</link>
+      <link>./publication/2020-ap-j-891-l-14-w/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/publication/2020-ap-j-891-l-14-w/</guid>
+      <guid>./publication/2020-ap-j-891-l-14-w/</guid>
       <description></description>
     </item>
     

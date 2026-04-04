@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>methods: numerical | Yihan Wang (王艺涵)</title>
-    <link>https://yihanwangastro.github.io/tag/methods-numerical/</link>
-      <atom:link href="https://yihanwangastro.github.io/tag/methods-numerical/index.xml" rel="self" type="application/rss+xml" />
-    <description>methods: numerical</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <title>Methods: Numerical | Yihan Wang (王艺涵)</title>
+    <link>./tag/methods-numerical/</link>
+      <atom:link href="./tag/methods-numerical/index.xml" rel="self" type="application/rss+xml" />
+    <description>Methods: Numerical</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yihanwangastro.github.io/media/icon_hu21cdc11b738e3f88727c5700766a58fa_208545_512x512_fill_lanczos_center_3.png</url>
-      <title>methods: numerical</title>
-      <link>https://yihanwangastro.github.io/tag/methods-numerical/</link>
+      <url>./media/icon_hu_5f4ae6b6057760e0.png</url>
+      <title>Methods: Numerical</title>
+      <link>./tag/methods-numerical/</link>
     </image>
     
     <item>
       <title>Anisotropic energy injection from magnetar central engines in short GRBs</title>
-      <link>https://yihanwangastro.github.io/publication/2024-mnras-528-3705-w/</link>
+      <link>./publication/2024-mnras-528-3705-w/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/publication/2024-mnras-528-3705-w/</guid>
+      <guid>./publication/2024-mnras-528-3705-w/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SpaceHub: A high-performance gravity integration toolkit for few-body problems in astrophysics</title>
-      <link>https://yihanwangastro.github.io/publication/2021-mnras-505-1053-w/</link>
+      <link>./publication/2021-mnras-505-1053-w/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/publication/2021-mnras-505-1053-w/</guid>
+      <guid>./publication/2021-mnras-505-1053-w/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Constraining the Black Hole Initial Mass Function with LIGO/Virgo Observations</title>
-      <link>https://yihanwangastro.github.io/publication/2019-ap-j-878-l-1-p/</link>
+      <link>./publication/2019-ap-j-878-l-1-p/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/publication/2019-ap-j-878-l-1-p/</guid>
+      <guid>./publication/2019-ap-j-878-l-1-p/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The fate of close encounters between binary stars and binary supermassive black holes</title>
-      <link>https://yihanwangastro.github.io/publication/2018-mnras-475-4595-w/</link>
+      <link>./publication/2018-mnras-475-4595-w/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/publication/2018-mnras-475-4595-w/</guid>
+      <guid>./publication/2018-mnras-475-4595-w/</guid>
       <description></description>
     </item>
     

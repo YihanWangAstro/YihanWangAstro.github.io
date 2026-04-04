@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>galaxy: centre | Yihan Wang (王艺涵)</title>
-    <link>https://yihanwangastro.github.io/tag/galaxy-centre/</link>
-      <atom:link href="https://yihanwangastro.github.io/tag/galaxy-centre/index.xml" rel="self" type="application/rss+xml" />
-    <description>galaxy: centre</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <title>Galaxy: Centre | Yihan Wang (王艺涵)</title>
+    <link>./tag/galaxy-centre/</link>
+      <atom:link href="./tag/galaxy-centre/index.xml" rel="self" type="application/rss+xml" />
+    <description>Galaxy: Centre</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yihanwangastro.github.io/media/icon_hu21cdc11b738e3f88727c5700766a58fa_208545_512x512_fill_lanczos_center_3.png</url>
-      <title>galaxy: centre</title>
-      <link>https://yihanwangastro.github.io/tag/galaxy-centre/</link>
+      <url>./media/icon_hu_5f4ae6b6057760e0.png</url>
+      <title>Galaxy: Centre</title>
+      <link>./tag/galaxy-centre/</link>
     </image>
     
     <item>
       <title>The cosmological distribution of compact object mergers from dynamical interactions with SMBH binaries</title>
-      <link>https://yihanwangastro.github.io/publication/2019-mnras-490-2627-w/</link>
+      <link>./publication/2019-mnras-490-2627-w/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://yihanwangastro.github.io/publication/2019-mnras-490-2627-w/</guid>
+      <guid>./publication/2019-mnras-490-2627-w/</guid>
       <description></description>
     </item>
     
