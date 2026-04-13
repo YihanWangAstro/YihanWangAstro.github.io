@@ -5,12 +5,21 @@
     <link>./publication-type/article-journal/</link>
       <atom:link href="./publication-type/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Article-Journal</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>./media/icon_hu_5f4ae6b6057760e0.png</url>
       <title>Article-Journal</title>
       <link>./publication-type/article-journal/</link>
     </image>
+    
+    <item>
+      <title>An energetic dirty fireball detected in soft X-rays</title>
+      <link>./publication/2026-ar-xiv-260326213-d/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>./publication/2026-ar-xiv-260326213-d/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>VegasAfterglow: A high-performance framework for gamma-ray burst afterglows</title>
