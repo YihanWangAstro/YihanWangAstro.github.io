@@ -1,97 +1,55 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Projects | Yihan Wang (王艺涵)</title>
-    <link>./project/</link>
-      <atom:link href="./project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>./media/icon_hu_5f4ae6b6057760e0.png</url>
-      <title>Projects</title>
-      <link>./project/</link>
-    </image>
-    
-    <item>
-      <title>VegasAfterglow</title>
-      <link>./project/vegasafterglow/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>./project/vegasafterglow/</guid>
-      <description>&lt;p&gt;VegasAfterglow is a high-performance computational framework combining C++ efficiency with Python accessibility for gamma-ray burst afterglow modeling.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$ pip install VegasAfterglow
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$ python -c &amp;#34;import VegasAfterglow; print(&amp;#39;ready&amp;#39;)&amp;#34;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ready
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;┌─────────────────────────────────────────────┐
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  VegasAfterglow                             │
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  Light curve generation   ~ms               │
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  MCMC inference           ✓                 │
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  Forward + reverse shock  ✓                 │
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  Synchrotron self-Compton ✓                 │
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  Structured jets          ✓                 │
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;└─────────────────────────────────────────────┘
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Key Features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Generates light curves in milliseconds — enabling rapid MCMC parameter inference&lt;/li&gt;
-&lt;li&gt;Forward and reverse shock modeling across relativistic and non-relativistic regimes&lt;/li&gt;
-&lt;li&gt;Synchrotron self-Compton emission&lt;/li&gt;
-&lt;li&gt;Flexible jet structures with arbitrary viewing angles&lt;/li&gt;
-&lt;li&gt;Python interface for seamless integration with standard fitting tools&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Publication:&lt;/strong&gt; Wang, Chen &amp;amp; Zhang (2025), JHEAP&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>SpaceHub</title>
-      <link>./project/spacehub/</link>
-      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>./project/spacehub/</guid>
-      <description>&lt;p&gt;SpaceHub is a state-of-the-art few-body gravity integration toolkit built in C++. It implements Algorithmic Regularization (AR) and symplectic integrators to handle scenarios that break conventional codes:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$ spacehub --status
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;┌─────────────────────────────────────────────┐
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  SpaceHub v1.0                              │
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  Extreme mass ratios      ✓                 │
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  High eccentricities      ✓                 │
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  Close encounters         ✓                 │
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  Round-off error control  ✓                 │
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  Long-term integration    ✓                 │
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;└─────────────────────────────────────────────┘
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Key Features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Algorithmic Regularization for extreme mass ratios (e.g., SMBH + stellar-mass objects)&lt;/li&gt;
-&lt;li&gt;Symplectic integrators ensuring time-reversibility&lt;/li&gt;
-&lt;li&gt;Rigorous round-off error control for long-term orbital evolution&lt;/li&gt;
-&lt;li&gt;Easy-to-use API designed for community adoption&lt;/li&gt;
-&lt;li&gt;Applications: SMBH binaries, planetary system evolution, chaotic star clusters&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Publication:&lt;/strong&gt; Wang et al. (2021), MNRAS, 505, 1053&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Secular</title>
-      <link>./project/secular/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>./project/secular/</guid>
-      <description>&lt;p&gt;Secular is a fast solver for hierarchical secular dynamics, designed for studying long-term orbital evolution in triple and quadruple stellar/planetary systems.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$ secular --info
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;┌─────────────────────────────────────────────┐
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  Secular Dynamics Solver                    │
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  Hierarchical triples     ✓                 │
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  Quadruple systems        ✓                 │
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  Lidov-Kozai oscillations ✓                 │
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  Stability analysis       ✓                 │
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;│  Highly optimized         ✓                 │
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;└─────────────────────────────────────────────┘
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Key Features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Solves orbit-averaged equations of motion for hierarchical systems&lt;/li&gt;
-&lt;li&gt;Highly optimized for Lidov-Kozai oscillation studies&lt;/li&gt;
-&lt;li&gt;Long-term stability limit analysis&lt;/li&gt;
-&lt;li&gt;Applications: triple star systems, planet–binary interactions, compact object mergers&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | Yihan Wang (王艺涵)</title><link>https://yihanwangastro.github.io/project/</link><atom:link href="https://yihanwangastro.github.io/project/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><image><url>https://yihanwangastro.github.io/media/icon_hu_5f4ae6b6057760e0.png</url><title>Projects</title><link>https://yihanwangastro.github.io/project/</link></image><item><title>VegasAfterglow</title><link>https://yihanwangastro.github.io/project/vegasafterglow/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://yihanwangastro.github.io/project/vegasafterglow/</guid><description>&lt;p>VegasAfterglow is a high-performance computational framework combining C++ efficiency with Python accessibility for gamma-ray burst afterglow modeling.&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">$ pip install VegasAfterglow
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">$ python -c &amp;#34;import VegasAfterglow; print(&amp;#39;ready&amp;#39;)&amp;#34;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">ready
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">┌─────────────────────────────────────────────┐
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">│ VegasAfterglow │
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">│ Light curve generation ~ms │
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">│ MCMC inference ✓ │
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">│ Forward + reverse shock ✓ │
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">│ Synchrotron self-Compton ✓ │
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">│ Structured jets ✓ │
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">└─────────────────────────────────────────────┘
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>&lt;strong>Key Features:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Generates light curves in milliseconds — enabling rapid MCMC parameter inference&lt;/li>
+&lt;li>Forward and reverse shock modeling across relativistic and non-relativistic regimes&lt;/li>
+&lt;li>Synchrotron self-Compton emission&lt;/li>
+&lt;li>Flexible jet structures with arbitrary viewing angles&lt;/li>
+&lt;li>Python interface for seamless integration with standard fitting tools&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Publication:&lt;/strong> Wang, Chen &amp;amp; Zhang (2025), JHEAP&lt;/p></description></item><item><title>SpaceHub</title><link>https://yihanwangastro.github.io/project/spacehub/</link><pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate><guid>https://yihanwangastro.github.io/project/spacehub/</guid><description>&lt;p>SpaceHub is a state-of-the-art few-body gravity integration toolkit built in C++. It implements Algorithmic Regularization (AR) and symplectic integrators to handle scenarios that break conventional codes:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">$ spacehub --status
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">┌─────────────────────────────────────────────┐
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">│ SpaceHub v1.0 │
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">│ Extreme mass ratios ✓ │
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">│ High eccentricities ✓ │
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">│ Close encounters ✓ │
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">│ Round-off error control ✓ │
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">│ Long-term integration ✓ │
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">└─────────────────────────────────────────────┘
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>&lt;strong>Key Features:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Algorithmic Regularization for extreme mass ratios (e.g., SMBH + stellar-mass objects)&lt;/li>
+&lt;li>Symplectic integrators ensuring time-reversibility&lt;/li>
+&lt;li>Rigorous round-off error control for long-term orbital evolution&lt;/li>
+&lt;li>Easy-to-use API designed for community adoption&lt;/li>
+&lt;li>Applications: SMBH binaries, planetary system evolution, chaotic star clusters&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Publication:&lt;/strong> Wang et al. (2021), MNRAS, 505, 1053&lt;/p></description></item><item><title>Secular</title><link>https://yihanwangastro.github.io/project/secular/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://yihanwangastro.github.io/project/secular/</guid><description>&lt;p>Secular is a fast solver for hierarchical secular dynamics, designed for studying long-term orbital evolution in triple and quadruple stellar/planetary systems.&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">$ secular --info
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">┌─────────────────────────────────────────────┐
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">│ Secular Dynamics Solver │
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">│ Hierarchical triples ✓ │
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">│ Quadruple systems ✓ │
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">│ Lidov-Kozai oscillations ✓ │
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">│ Stability analysis ✓ │
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">│ Highly optimized ✓ │
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">└─────────────────────────────────────────────┘
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>&lt;strong>Key Features:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Solves orbit-averaged equations of motion for hierarchical systems&lt;/li>
+&lt;li>Highly optimized for Lidov-Kozai oscillation studies&lt;/li>
+&lt;li>Long-term stability limit analysis&lt;/li>
+&lt;li>Applications: triple star systems, planet–binary interactions, compact object mergers&lt;/li>
+&lt;/ul></description></item></channel></rss>
