@@ -54,7 +54,7 @@
 
   // ---- background ----
   function drawBG(t){
-    ctx.fillStyle=COL_BG; ctx.fillRect(0,0,w,h);
+    if(canvas.dataset.bgFloat){ctx.clearRect(0,0,w,h);}else{ctx.fillStyle=COL_BG; ctx.fillRect(0,0,w,h);}
     for(var i=0;i<FIELD.length;i++){
       var s=FIELD[i];
       var a=s.b*(0.5+0.5*Math.sin(t*0.8+s.tw));
@@ -453,16 +453,13 @@
     // compute phase fades
     var p1 = 1.0 - smooth(20-XF,20,lt);                 // 0..20 fading out near 20
     var p2 = smooth(20-XF,20,lt) - smooth(40-XF,40,lt); // 20..40
-    var p3 = smooth(40-XF,40,lt) - smooth(60-XF,60,lt) + smooth(0, XF, lt)*0.0; // 40..60
+    var p3 = smooth(40-XF,40,lt) - smooth(60-XF,60,lt); // 40..60
     // ensure p3 fades out at the very end and p1 fades in at very start
     p1 = clamp(p1,0,1); p2=clamp(p2,0,1); p3=clamp(p3,0,1);
-    // wrap fade-out of phase3 near 60 handled; fade-in of phase1 near 0
     var startFade=smooth(0,XF,lt);
-    if(lt>60-XF){ var endf=1-smooth(60-XF,60,lt); p3*=1; }
 
     // Phase 2 brightening of the disk
     var tdeFlare=0;
-    if(p2>0.001){ /* compute later, need lt local */ }
 
     // ---- draw disk (always present) ----
     // determine brightness boost from TDE phase
@@ -526,7 +523,7 @@
   function frame(ts){ if(start==null)start=ts; var t=(ts-start)/1000;
     if(w<2||h<2){ requestAnimationFrame(frame); return; }
     var T=60, lt=t%T;
-    ctx.fillStyle='#0d1117'; ctx.fillRect(0,0,w,h);
+    if(canvas.dataset.bgFloat){ctx.clearRect(0,0,w,h);}else{ctx.fillStyle='#0d1117'; ctx.fillRect(0,0,w,h);}
     drawStars(t);
     var cx=w/2, cy=h/2, S=Math.min(w,h);
     if(lt<23){
@@ -668,7 +665,7 @@
     if(w<2||h<2){ requestAnimationFrame(frame); return; }
     var lt=t%T;
 
-    ctx.fillStyle=C.bg; ctx.fillRect(0,0,w,h);
+    if(canvas.dataset.bgFloat){ctx.clearRect(0,0,w,h);}else{ctx.fillStyle=C.bg; ctx.fillRect(0,0,w,h);}
     for(i=0;i<bg.length;i++){ var sbg=bg[i];
       ctx.globalAlpha=0.22+0.4*(0.5+0.5*Math.sin(t*sbg.tw+sbg.p));
       ctx.fillStyle=C.muted; ctx.beginPath(); ctx.arc(sbg.x*w,sbg.y*h,sbg.r,0,PI2); ctx.fill();
@@ -834,7 +831,7 @@
   }
 
   function background(t){
-    ctx.fillStyle=BG; ctx.fillRect(0,0,w,h);
+    if(canvas.dataset.bgFloat){ctx.clearRect(0,0,w,h);}else{ctx.fillStyle=BG; ctx.fillRect(0,0,w,h);}
     var S=Math.min(w,h);
     for(var i=0;i<stars.length;i++){ var st=stars[i];
       var tw=0.5+0.5*Math.sin(t*st.sp+st.ph);
@@ -847,8 +844,7 @@
     ctx.save();
     ctx.font='10px -apple-system,Segoe UI,Roboto,sans-serif';
     var tw=ctx.measureText(txt).width;
-    ctx.fillStyle='rgba(5,8,14,0.62)';
-    ctx.fillRect(8,8,tw+12,17);
+    if(!canvas.dataset.bgFloat){ ctx.fillStyle='rgba(5,8,14,0.62)'; ctx.fillRect(8,8,tw+12,17); }
     ctx.fillStyle=MUTE;
     ctx.textBaseline='middle';
     ctx.fillText(txt,14,17);
@@ -1027,7 +1023,7 @@
 
     // --- prompt light curve inset (rapid flicker), bottom-right ---
     var iw=S*0.30, ih=S*0.11, ix=w-iw-10, iy=h-ih-10;
-    ctx.fillStyle='rgba(5,8,14,0.5)'; ctx.fillRect(ix,iy,iw,ih);
+    if(!canvas.dataset.bgFloat){ ctx.fillStyle='rgba(5,8,14,0.5)'; ctx.fillRect(ix,iy,iw,ih); }
     ctx.strokeStyle=withA(MUTE,0.35); ctx.lineWidth=1;
     ctx.strokeRect(ix,iy,iw,ih);
     ctx.beginPath();
@@ -1122,7 +1118,7 @@
 
     // --- multi-band light-curve inset (log-log): X-ray & optical peak early, radio late ---
     var iw=S*0.36, ih=S*0.26, ix=w-iw-10, iy=h-ih-10;
-    ctx.fillStyle='rgba(5,8,14,0.55)'; ctx.fillRect(ix,iy,iw,ih);
+    if(!canvas.dataset.bgFloat){ ctx.fillStyle='rgba(5,8,14,0.55)'; ctx.fillRect(ix,iy,iw,ih); }
     ctx.strokeStyle=withA(MUTE,0.45); ctx.lineWidth=1;
     // axes (log-log)
     ctx.beginPath(); ctx.moveTo(ix+18,iy+4); ctx.lineTo(ix+18,iy+ih-12); ctx.lineTo(ix+iw-4,iy+ih-12); ctx.stroke();
@@ -1179,13 +1175,13 @@
     dg.addColorStop(0,withA('#1a1410',0));
     dg.addColorStop(0.5,withA('#3a2418',0.9));
     dg.addColorStop(1,withA('#1a1410',0));
-    ctx.fillStyle=dg; ctx.fillRect(0,cy-slabH/2,w,slabH);
+    if(!canvas.dataset.bgFloat){ ctx.fillStyle=dg; ctx.fillRect(0,cy-slabH/2,w,slabH); }
     // hot mid-plane glow (reddened)
     var mg=ctx.createLinearGradient(0,cy-slabH*0.12,0,cy+slabH*0.12);
     mg.addColorStop(0,withA('#5a3018',0));
     mg.addColorStop(0.5,withA('#8a4422',0.55));
     mg.addColorStop(1,withA('#5a3018',0));
-    ctx.fillStyle=mg; ctx.fillRect(0,cy-slabH*0.12,w,slabH*0.24);
+    if(!canvas.dataset.bgFloat){ ctx.fillStyle=mg; ctx.fillRect(0,cy-slabH*0.12,w,slabH*0.24); }
     // disk speckle / turbulence (shearing)
     for(var i=0;i<disk.length;i++){ var s=disk[i];
       var sx=((s.x+ t*0.02*s.sp)%1)*w;
@@ -1244,7 +1240,7 @@
 
     // small annotation contrasting clean vs disk afterglow
     var iw=S*0.40, ih=S*0.085, ix=w-iw-10, iy=h-ih-10;
-    ctx.fillStyle='rgba(5,8,14,0.5)'; ctx.fillRect(ix,iy,iw,ih);
+    if(!canvas.dataset.bgFloat){ ctx.fillStyle='rgba(5,8,14,0.5)'; ctx.fillRect(ix,iy,iw,ih); }
     ctx.font='8px -apple-system,sans-serif'; ctx.textBaseline='middle';
     ctx.setLineDash([3,3]);
     ctx.strokeStyle=withA(C_GAMMA,0.7); ctx.lineWidth=1;
@@ -1454,7 +1450,7 @@
   function frame(ts){ if(start==null)start=ts; var t=(ts-start)/1000;
     if(w<2||h<2){ requestAnimationFrame(frame); return; }
     var lt=t%T;
-    ctx.fillStyle=BG; ctx.fillRect(0,0,w,h);
+    if(canvas.dataset.bgFloat){ctx.clearRect(0,0,w,h);}else{ctx.fillStyle=BG; ctx.fillRect(0,0,w,h);}
     var cross=1.5;
     if(lt<30){
       var f1=1;
@@ -1471,6 +1467,6 @@
   requestAnimationFrame(frame);
 };
 
-  function boot(){ var c=document.querySelectorAll('canvas[data-theme]'); for(var i=0;i<c.length;i++){(function(cv){var n=parseInt(cv.getAttribute('data-theme'),10); try{ if(INIT[n]) INIT[n](cv);}catch(e){ if(window.console&&console.error) console.error('anim '+n,e);} })(c[i]);} }
+  function boot(){ var c=document.querySelectorAll('canvas[data-theme]'); for(var i=0;i<c.length;i++){(function(cv){ if(cv.dataset.bgFloat){ try{ var cx=cv.getContext('2d'); cx.fillText=function(){}; cx.strokeText=function(){}; }catch(e){} } var n=parseInt(cv.getAttribute('data-theme'),10); try{ if(INIT[n]) INIT[n](cv);}catch(e){ if(window.console&&console.error) console.error('anim '+n,e);} })(c[i]);} }
   if(document.readyState!=='loading') boot(); else document.addEventListener('DOMContentLoaded',boot);
 })();
