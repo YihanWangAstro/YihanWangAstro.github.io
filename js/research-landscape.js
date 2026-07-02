@@ -7,6 +7,9 @@
     return function(cb){ if(visible) return raf(cb); pending=cb; return 0; };
   };
   var INIT = {};
+  // Shared math helpers (visible to every module below).
+  function clamp(x,a,b){ return x<a?a:(x>b?b:x); }
+  function lerp(a,b,t){ return a+(b-a)*t; }
   INIT[1] = function(canvas){
   var requestAnimationFrame = __gatedRAF(canvas);
   var ctx=canvas.getContext('2d'), w=1,h=1,dpr=1;
@@ -17,9 +20,7 @@
   var COL_GREEN='#39d353', COL_AMBER='#f0a500', COL_WHITE='#e6edf3', COL_MUTE='#9aa4b2', COL_BG='#0d1117';
 
   // ---- helpers ----
-  function clamp(x,a,b){ return x<a?a:(x>b?b:x); }
   function smooth(e0,e1,x){ var t=clamp((x-e0)/(e1-e0),0,1); return t*t*(3-2*t); }
-  function lerp(a,b,t){ return a+(b-a)*t; }
   // hash-based deterministic pseudo-random for stable per-object params
   function hash(n){ var s=Math.sin(n*127.1+311.7)*43758.5453; return s-Math.floor(s); }
 
@@ -66,7 +67,7 @@
   }
 
   // ---- the accretion disk : the centerpiece ----
-  // bright param scales overall luminosity (Phase 2 brightening), tint shifts hue toward red (Phase 3 flare unaffected)
+  // bright param scales overall luminosity (Phase 2 brightening)
   function drawDisk(cx,cy,S,t,bright){
     var rin=R_IN*S, rout=R_OUT*S, bhr=BH_R*S;
     var sq=INCL;               // vertical squash -> inclination (~36 deg)
@@ -290,7 +291,7 @@
   }
 
   // ---- Phase 2: changing-look TDE ----
-  // returns extra disk brightness contributed this phase
+  // (the disk-brightness boost for this phase is recomputed in frame())
   function drawTDE(cx,cy,S,lt){
     // timeline within phase (0..20)
     var streamGrow=smooth(0.0,7.0,lt);       // stream wraps in
@@ -357,8 +358,6 @@
       ctx.fillStyle=g; ctx.beginPath(); ctx.arc(fp[0],fp[1],0.14*S,0,Math.PI*2); ctx.fill();
       ctx.restore();
     }
-
-    return flareAmp; // feeds into disk brightness
   }
 
   // ---- Phase 3: micro-TDE around embedded stellar-mass BH ----
@@ -454,7 +453,7 @@
     var p1 = 1.0 - smooth(20-XF,20,lt);                 // 0..20 fading out near 20
     var p2 = smooth(20-XF,20,lt) - smooth(40-XF,40,lt); // 20..40
     var p3 = smooth(40-XF,40,lt) - smooth(60-XF,60,lt); // 40..60
-    // ensure p3 fades out at the very end and p1 fades in at very start
+    // defensive clamps (the smoothstep differences already stay within 0..1)
     p1 = clamp(p1,0,1); p2=clamp(p2,0,1); p3=clamp(p3,0,1);
     var startFade=smooth(0,XF,lt);
 
@@ -511,8 +510,6 @@
   var stars=[];
   for(var i=0;i<60;i++){ stars.push({x:Math.random(),y:Math.random(),r:Math.random()*0.9+0.2,tw:Math.random()*TAU}); }
   var COL={green:'#39d353',gold:'#f0a500',white:'#e6edf3',muted:'#9aa4b2'};
-  function lerp(a,b,u){ return a+(b-a)*u; }
-  function clamp(x,a,b){ return x<a?a:(x>b?b:x); }
   function smooth(u){ u=clamp(u,0,1); return u*u*(3-2*u); }
   function envelope(p,fin,fout){ var a=smooth(p/fin); var b=smooth((1-p)/fout); return Math.min(a,b); }
   function dot(x,y,r,col,glow){ if(glow){ ctx.shadowColor=col; ctx.shadowBlur=glow; } ctx.fillStyle=col; ctx.beginPath(); ctx.arc(x,y,r,0,TAU); ctx.fill(); if(glow) ctx.shadowBlur=0; }
@@ -630,7 +627,6 @@
   var C={green:'#39d353',gold:'#f0a500',white:'#e6edf3',muted:'#9aa4b2',bg:'#0d1117'};
 
   function ss(a,b,x){ if(b===a)return x<a?0:1; var t=(x-a)/(b-a); if(t<0)t=0; if(t>1)t=1; return t*t*(3-2*t); }
-  function lerp(a,b,t){ return a+(b-a)*t; }
   function dot(x,y,r,col,blur,alpha){
     ctx.save(); ctx.globalAlpha=alpha==null?1:alpha;
     if(blur){ ctx.shadowBlur=blur; ctx.shadowColor=col; }
@@ -666,7 +662,7 @@
     var lt=t%T;
 
     if(canvas.dataset.bgFloat){ctx.clearRect(0,0,w,h);}else{ctx.fillStyle=C.bg; ctx.fillRect(0,0,w,h);}
-    for(i=0;i<bg.length;i++){ var sbg=bg[i];
+    for(var i=0;i<bg.length;i++){ var sbg=bg[i];
       ctx.globalAlpha=0.22+0.4*(0.5+0.5*Math.sin(t*sbg.tw+sbg.p));
       ctx.fillStyle=C.muted; ctx.beginPath(); ctx.arc(sbg.x*w,sbg.y*h,sbg.r,0,PI2); ctx.fill();
     }
@@ -816,8 +812,6 @@
 
   var T=60;
 
-  function lerp(a,b,t){return a+(b-a)*t;}
-  function clamp(x,a,b){return x<a?a:(x>b?b:x);}
   function ease(t){return t<0?0:(t>1?1:t*t*(3-2*t));}
   // cross-fade weight for a phase window [s,e] with fade f at edges
   function pw(lt,s,e,f){
@@ -832,7 +826,6 @@
 
   function background(t){
     if(canvas.dataset.bgFloat){ctx.clearRect(0,0,w,h);}else{ctx.fillStyle=BG; ctx.fillRect(0,0,w,h);}
-    var S=Math.min(w,h);
     for(var i=0;i<stars.length;i++){ var st=stars[i];
       var tw=0.5+0.5*Math.sin(t*st.sp+st.ph);
       ctx.fillStyle=withA('#c8d0e0', st.b*0.5*tw);
@@ -1344,8 +1337,6 @@
   }
 
   var T=60, start=null;
-  function lerp(a,b,u){return a+(b-a)*u;}
-  function clamp(v,a,b){return v<a?a:v>b?b:v;}
   function smooth(u){u=clamp(u,0,1);return u*u*(3-2*u);}
 
   function drawLabel(txt, alpha){
